@@ -2,14 +2,8 @@
   "name": "chess.js",
   "version": "1.0.0-alpha.0",
   "license": "BSD-2-Clause",
-  "exports": {
-    ".": {
-      "types": "./dist/chess.d.ts",
-      "require": "./dist/chess.js"
-    }
-  },
-  "main": "./dist/chess.js",
-  "types": "./dist/chess.d.ts",
+  "main": "dist/chess.js",
+  "types": "dist/chess.d.ts",
   "homepage": "https://github.com/jhlywa/chess.js",
   "author": "Jeff Hlywa <jhlywa@gmail.com>",
   "scripts": {
